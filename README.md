@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayomidesangogade
 - 👀 I’m interested in machine learning 
-- 🌱 I’m currently learning data science 
+- 🌱 I’m currently learning React 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ayomidesangogade@gmail.com
 - 😄 Pronouns: HE/HIM
