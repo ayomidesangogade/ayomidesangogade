@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ayomidesangogade
+- 👋 Hi, I’m Sangogade Ayomide
 - 👀 I’m interested in machine learning 
 - 🌱 I’m currently learning React 
 - 💞️ I’m looking to collaborate on ...
